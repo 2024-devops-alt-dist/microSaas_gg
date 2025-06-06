@@ -46,14 +46,54 @@
 
 ---
 
-## 🎨 Charte graphique
+## 🎨 Design UI / UX
 
-- **Ambiance** : Zen, épuré, productif
-- **Couleurs** :
-  - Vert sauge `#A8D5BA`
-  - Bleu pastel `#B3CDE0`
-  - Pêche clair `#FFDAB9`
-  - Fond blanc cassé `#FAFAFA`
-- **Typographies** :
-  - Titres : Raleway
-  - Textes : Inter
+Cette maquette présente une interface intuitive permettant aux utilisateurs de créer et gérer facilement leurs tâches et sous-tâches préparatoires à différents événements du quotidien.
+
+### 🎯 Objectifs UX
+
+- Simplifier l’ajout et la modification d’événements
+
+- Gérer les tâches préparatoires en quelques clics
+
+- Faciliter la réutilisation des préparatifs existants via la recherche et l’autocomplétion
+
+- Offrir une expérience fluide sur mobile
+
+### 🌈 Univers Visuel
+
+**Ambiance :**
+Zen, minimaliste, moderne et propice à la concentration.
+
+**Palette de couleurs :**
+
+- Vert sauge #A8D5BA
+- Bleu pastel #B3CDE0
+- Pêche clair #FFDAB9
+- Blanc cassé #FAFAFA
+- Gris foncé #333333
+
+**Typographie :**
+
+- Titres : Raleway
+- Textes : DM Sans
+
+Éléments graphiques :
+
+- Boutons arrondis
+- Icônes minimalistes
+
+Légers effets d’ombre pour une interface douce et structurée
+
+#### ♿ **Accessibilité**
+
+- Contrastes optimisés pour les personnes malvoyantes
+- Hiérarchie claire des contenus
+- Interfaces testées via [Adobe Color](https://color.adobe.com/fr/create/color-contrast-analyzer) <br/>
+  <img src="./maquette/access.png" alt="Aperçu interface" width="300">
+
+✨ Résumé
+Agenda Intelligent combine organisation, clarté et praticité. L'application se distingue par sa capacité à anticiper les besoins liés aux événements (préparation, trajet, rappels intelligents), tout en offrant une interface moderne et apaisante.
+Une solution idéale pour toute personne souhaitant alléger son quotidien et mieux gérer son temps.
+
+🛠️ Prochaine étape : Intégration avec des outils tiers (Google Calendar, Siri, Alexa...) et ajout de widgets personnalisables.
